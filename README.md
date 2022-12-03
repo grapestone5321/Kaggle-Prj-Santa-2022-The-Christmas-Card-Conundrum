@@ -13,3 +13,6 @@ Your job is to determine the most optimal way to craft this year’s Christmas c
 
 -----
 
+A robotic arm with eight links with lengths  must "print" each point of the following  image:
+
+-----
